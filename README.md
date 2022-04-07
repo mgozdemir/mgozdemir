@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mgozdemir
-- 👀 I’m interested in Economics anad Academic Writing
+- 👀 I’m interested in Economics and Academic Writing
 - 🌱 I’m currently learning R packages with regard to ecological economic data analysing thinking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
